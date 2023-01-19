@@ -1,6 +1,6 @@
 # Game Caro
 
-Demo server socket game caro
+Demo server socket game caro.
 ## Kiến trúc
 - Dùng kiến trúc  Client - Server Architecture
 
